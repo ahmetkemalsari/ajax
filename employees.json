@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Ahmet Kemal SARI",
+        "department" :"Arge",
+        "salary" : 7000
+    },
+    {
+        "name":"Mustafa Murat Çoşkun",
+        "department" :"Bilişim",
+        "salary" : 9000
+    }, {
+        "name":"Serhat Say",
+        "department" :"Pazarlama",
+        "salary" : 5000
+    }
+]

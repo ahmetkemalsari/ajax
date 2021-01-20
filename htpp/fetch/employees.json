@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Ahmet Kemal SARI",
+        "age" : 25,
+        "salary" : 79999
+    },
+     {
+        "name" : "Mustafa Çolakoğlu",
+        "age" : 25,
+        "salary" : 49999
+    },
+    {
+        "name" : "Merve Çolak",
+        "age" : 25,
+        "salary" : 39999
+    }
+    
+
+]
